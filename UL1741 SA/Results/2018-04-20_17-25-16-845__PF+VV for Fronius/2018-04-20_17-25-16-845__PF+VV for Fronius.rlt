@@ -1,0 +1,1527 @@
+<result name="2018-04-20_17-25-16-845__PF+VV for Fronius" type="result">
+  <params />
+  <results>
+    <result name="PF+VV for Fronius" type="suite">
+      <params />
+      <results>
+        <result name="SPF" type="suite">
+          <params />
+          <results>
+            <result filename="PF+VV for Fronius\SPF\SPF_min_ind\SPF_min_ind.log" name="SPF_min_ind" status="Complete" type="test">
+              <params />
+              <results>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_ind\result_summary.csv" name="result_summary.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_ind\spf_1000_100_1.csv" name="spf_1000_100_1.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_ind\spf_850.0_100_1.csv" name="spf_850.0_100_1.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_850.0_100_1</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_ind\spf_1000_100_2.csv" name="spf_1000_100_2.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_ind\spf_850.0_100_2.csv" name="spf_850.0_100_2.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_850.0_100_2</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_ind\spf_1000_100_3.csv" name="spf_1000_100_3.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_ind\spf_850.0_100_3.csv" name="spf_850.0_100_3.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_850.0_100_3</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_ind\spf_1000_50_1.csv" name="spf_1000_50_1.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_ind\spf_850.0_50_1.csv" name="spf_850.0_50_1.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_850.0_50_1</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_ind\spf_1000_50_2.csv" name="spf_1000_50_2.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_ind\spf_850.0_50_2.csv" name="spf_850.0_50_2.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_850.0_50_2</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_ind\spf_1000_50_3.csv" name="spf_1000_50_3.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_ind\spf_850.0_50_3.csv" name="spf_850.0_50_3.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_850.0_50_3</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_ind\spf_1000_20_1.csv" name="spf_1000_20_1.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_ind\spf_850.0_20_1.csv" name="spf_850.0_20_1.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_850.0_20_1</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_ind\spf_1000_20_2.csv" name="spf_1000_20_2.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_ind\spf_850.0_20_2.csv" name="spf_850.0_20_2.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_850.0_20_2</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_ind\spf_1000_20_3.csv" name="spf_1000_20_3.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_ind\spf_850.0_20_3.csv" name="spf_850.0_20_3.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_850.0_20_3</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_ind\SPF_min_ind.xlsx" name="SPF_min_ind.xlsx" type="file">
+                  <params />
+                  <results />
+                </result>
+              </results>
+            </result>
+            <result filename="PF+VV for Fronius\SPF\SPF_mid_ind\SPF_mid_ind.log" name="SPF_mid_ind" status="Complete" type="test">
+              <params />
+              <results>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_ind\result_summary.csv" name="result_summary.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_ind\spf_1000_100_1.csv" name="spf_1000_100_1.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_ind\spf_925.0_100_1.csv" name="spf_925.0_100_1.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_925.0_100_1</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_ind\spf_1000_100_2.csv" name="spf_1000_100_2.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_ind\spf_925.0_100_2.csv" name="spf_925.0_100_2.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_925.0_100_2</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_ind\spf_1000_100_3.csv" name="spf_1000_100_3.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_ind\spf_925.0_100_3.csv" name="spf_925.0_100_3.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_925.0_100_3</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_ind\spf_1000_50_1.csv" name="spf_1000_50_1.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_ind\spf_925.0_50_1.csv" name="spf_925.0_50_1.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_925.0_50_1</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_ind\spf_1000_50_2.csv" name="spf_1000_50_2.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_ind\spf_925.0_50_2.csv" name="spf_925.0_50_2.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_925.0_50_2</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_ind\spf_1000_50_3.csv" name="spf_1000_50_3.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_ind\spf_925.0_50_3.csv" name="spf_925.0_50_3.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_925.0_50_3</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_ind\spf_1000_20_1.csv" name="spf_1000_20_1.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_ind\spf_925.0_20_1.csv" name="spf_925.0_20_1.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_925.0_20_1</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_ind\spf_1000_20_2.csv" name="spf_1000_20_2.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_ind\spf_925.0_20_2.csv" name="spf_925.0_20_2.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_925.0_20_2</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_ind\spf_1000_20_3.csv" name="spf_1000_20_3.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_ind\spf_925.0_20_3.csv" name="spf_925.0_20_3.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_925.0_20_3</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_ind\SPF_mid_ind.xlsx" name="SPF_mid_ind.xlsx" type="file">
+                  <params />
+                  <results />
+                </result>
+              </results>
+            </result>
+            <result filename="PF+VV for Fronius\SPF\SPF_min_cap\SPF_min_cap.log" name="SPF_min_cap" status="Complete" type="test">
+              <params />
+              <results>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_cap\result_summary.csv" name="result_summary.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_cap\spf_1000_100_1.csv" name="spf_1000_100_1.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_cap\spf_-850.0_100_1.csv" name="spf_-850.0_100_1.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_-850.0_100_1</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_cap\spf_1000_100_2.csv" name="spf_1000_100_2.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_cap\spf_-850.0_100_2.csv" name="spf_-850.0_100_2.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_-850.0_100_2</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_cap\spf_1000_100_3.csv" name="spf_1000_100_3.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_cap\spf_-850.0_100_3.csv" name="spf_-850.0_100_3.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_-850.0_100_3</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_cap\spf_1000_50_1.csv" name="spf_1000_50_1.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_cap\spf_-850.0_50_1.csv" name="spf_-850.0_50_1.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_-850.0_50_1</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_cap\spf_1000_50_2.csv" name="spf_1000_50_2.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_cap\spf_-850.0_50_2.csv" name="spf_-850.0_50_2.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_-850.0_50_2</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_cap\spf_1000_50_3.csv" name="spf_1000_50_3.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_cap\spf_-850.0_50_3.csv" name="spf_-850.0_50_3.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_-850.0_50_3</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_cap\spf_1000_20_1.csv" name="spf_1000_20_1.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_cap\spf_-850.0_20_1.csv" name="spf_-850.0_20_1.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_-850.0_20_1</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_cap\spf_1000_20_2.csv" name="spf_1000_20_2.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_cap\spf_-850.0_20_2.csv" name="spf_-850.0_20_2.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_-850.0_20_2</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_cap\spf_1000_20_3.csv" name="spf_1000_20_3.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_cap\spf_-850.0_20_3.csv" name="spf_-850.0_20_3.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_-850.0_20_3</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_min_cap\SPF_min_cap.xlsx" name="SPF_min_cap.xlsx" type="file">
+                  <params />
+                  <results />
+                </result>
+              </results>
+            </result>
+            <result filename="PF+VV for Fronius\SPF\SPF_mid_cap\SPF_mid_cap.log" name="SPF_mid_cap" status="Complete" type="test">
+              <params />
+              <results>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_cap\result_summary.csv" name="result_summary.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_cap\spf_1000_100_1.csv" name="spf_1000_100_1.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_cap\spf_-925.0_100_1.csv" name="spf_-925.0_100_1.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_-925.0_100_1</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_cap\spf_1000_100_2.csv" name="spf_1000_100_2.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_cap\spf_-925.0_100_2.csv" name="spf_-925.0_100_2.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_-925.0_100_2</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_cap\spf_1000_100_3.csv" name="spf_1000_100_3.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_cap\spf_-925.0_100_3.csv" name="spf_-925.0_100_3.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_-925.0_100_3</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_cap\spf_1000_50_1.csv" name="spf_1000_50_1.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_cap\spf_-925.0_50_1.csv" name="spf_-925.0_50_1.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_-925.0_50_1</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_cap\spf_1000_50_2.csv" name="spf_1000_50_2.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_cap\spf_-925.0_50_2.csv" name="spf_-925.0_50_2.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_-925.0_50_2</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_cap\spf_1000_50_3.csv" name="spf_1000_50_3.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_cap\spf_-925.0_50_3.csv" name="spf_-925.0_50_3.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_-925.0_50_3</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_cap\spf_1000_20_1.csv" name="spf_1000_20_1.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_cap\spf_-925.0_20_1.csv" name="spf_-925.0_20_1.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_-925.0_20_1</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_cap\spf_1000_20_2.csv" name="spf_1000_20_2.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_cap\spf_-925.0_20_2.csv" name="spf_-925.0_20_2.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_-925.0_20_2</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_cap\spf_1000_20_3.csv" name="spf_1000_20_3.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_cap\spf_-925.0_20_3.csv" name="spf_-925.0_20_3.csv" type="file">
+                  <params>
+                    <param name="plot.y2.points" type="string">AC_IRMS_1</param>
+                    <param name="plot.y.points" type="string">AC_PF_1, PF_TARGET</param>
+                    <param name="plot.y2.title" type="string">Current (A)</param>
+                    <param name="plot.y.title" type="string">Power Factor</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (sec)</param>
+                    <param name="plot.title" type="string">spf_-925.0_20_3</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\SPF\SPF_mid_cap\SPF_mid_cap.xlsx" name="SPF_mid_cap.xlsx" type="file">
+                  <params />
+                  <results />
+                </result>
+              </results>
+            </result>
+          </results>
+        </result>
+        <result name="VV" type="suite">
+          <params />
+          <results>
+            <result filename="PF+VV for Fronius\VV\VV_1\VV_1.log" name="VV_1" status="Fail" type="test">
+              <params />
+              <results>
+                <result filename="PF+VV for Fronius\VV\VV_1\result_summary.csv" name="result_summary.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_1\VV_1_100_down_1.csv" name="VV_1_100_down_1.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_1_100_down_1</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_1\VV_1_100_up_1.csv" name="VV_1_100_up_1.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_1_100_up_1</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_1\VV_1_100_down_2.csv" name="VV_1_100_down_2.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_1_100_down_2</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_1\VV_1_100_up_2.csv" name="VV_1_100_up_2.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_1_100_up_2</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_1\VV_1_100_down_3.csv" name="VV_1_100_down_3.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_1_100_down_3</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_1\VV_1_100_up_3.csv" name="VV_1_100_up_3.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_1_100_up_3</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_1\VV_1_66_down_1.csv" name="VV_1_66_down_1.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_1_66_down_1</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_1\VV_1_66_up_1.csv" name="VV_1_66_up_1.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_1_66_up_1</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_1\VV_1_66_down_2.csv" name="VV_1_66_down_2.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_1_66_down_2</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_1\VV_1_66_up_2.csv" name="VV_1_66_up_2.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_1_66_up_2</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_1\VV_1_66_down_3.csv" name="VV_1_66_down_3.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_1_66_down_3</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_1\VV_1.xlsx" name="VV_1.xlsx" type="file">
+                  <params />
+                  <results />
+                </result>
+              </results>
+            </result>
+            <result filename="PF+VV for Fronius\VV\VV_2\VV_2.log" name="VV_2" status="Fail" type="test">
+              <params />
+              <results>
+                <result filename="PF+VV for Fronius\VV\VV_2\result_summary.csv" name="result_summary.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_2\VV_2_100_down_1.csv" name="VV_2_100_down_1.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_2_100_down_1</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_2\VV_2_100_up_1.csv" name="VV_2_100_up_1.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_2_100_up_1</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_2\VV_2_100_down_2.csv" name="VV_2_100_down_2.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_2_100_down_2</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_2\VV_2_100_up_2.csv" name="VV_2_100_up_2.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_2_100_up_2</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_2\VV_2_100_down_3.csv" name="VV_2_100_down_3.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_2_100_down_3</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_2\VV_2_100_up_3.csv" name="VV_2_100_up_3.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_2_100_up_3</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_2\VV_2_66_down_1.csv" name="VV_2_66_down_1.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_2_66_down_1</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_2\VV_2_66_up_1.csv" name="VV_2_66_up_1.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_2_66_up_1</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_2\VV_2_66_down_2.csv" name="VV_2_66_down_2.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_2_66_down_2</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_2\VV_2_66_up_2.csv" name="VV_2_66_up_2.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_2_66_up_2</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_2\VV_2_66_down_3.csv" name="VV_2_66_down_3.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_2_66_down_3</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_2\VV_2_66_up_3.csv" name="VV_2_66_up_3.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_2_66_up_3</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_2\VV_2_66_down_4.csv" name="VV_2_66_down_4.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_2_66_down_4</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_2\VV_2_66_up_4.csv" name="VV_2_66_up_4.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_2_66_up_4</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_2\VV_2_66_down_5.csv" name="VV_2_66_down_5.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_2_66_down_5</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_2\VV_2_66_up_5.csv" name="VV_2_66_up_5.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_2_66_up_5</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_2\VV_2_20_down_1.csv" name="VV_2_20_down_1.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_2_20_down_1</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_2\VV_2_20_up_1.csv" name="VV_2_20_up_1.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_2_20_up_1</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_2\VV_2_20_down_2.csv" name="VV_2_20_down_2.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_2_20_down_2</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_2\VV_2_20_up_2.csv" name="VV_2_20_up_2.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_2_20_up_2</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_2\VV_2_20_down_3.csv" name="VV_2_20_down_3.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_2_20_down_3</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_2\VV_2_20_up_3.csv" name="VV_2_20_up_3.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_2_20_up_3</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_2\VV_2.xlsx" name="VV_2.xlsx" type="file">
+                  <params />
+                  <results />
+                </result>
+              </results>
+            </result>
+            <result filename="PF+VV for Fronius\VV\VV_3\VV_3.log" name="VV_3" status="Fail" type="test">
+              <params />
+              <results>
+                <result filename="PF+VV for Fronius\VV\VV_3\result_summary.csv" name="result_summary.csv" type="file">
+                  <params />
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_3\VV_3_100_down_1.csv" name="VV_3_100_down_1.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_3_100_down_1</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_3\VV_3_100_up_1.csv" name="VV_3_100_up_1.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_3_100_up_1</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_3\VV_3_100_down_2.csv" name="VV_3_100_down_2.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_3_100_down_2</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_3\VV_3_100_up_2.csv" name="VV_3_100_up_2.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_3_100_up_2</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_3\VV_3_100_down_3.csv" name="VV_3_100_down_3.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_3_100_down_3</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_3\VV_3_100_up_3.csv" name="VV_3_100_up_3.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_3_100_up_3</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_3\VV_3_66_down_1.csv" name="VV_3_66_down_1.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_3_66_down_1</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_3\VV_3_66_up_1.csv" name="VV_3_66_up_1.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_3_66_up_1</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_3\VV_3_66_down_2.csv" name="VV_3_66_down_2.csv" type="file">
+                  <params>
+                    <param name="plot.y.points" type="string">AC_P_1, AC_Q_1, Q_ACT, Q_TARGET</param>
+                    <param name="plot.y2.points" type="string">AC_VRMS_1, V_ACT, V_TARGET</param>
+                    <param name="plot.Q_TARGET.max_error" type="string">Q_MAX_ERROR</param>
+                    <param name="plot.Q_TARGET.min_error" type="string">Q_MIN_ERROR</param>
+                    <param name="plot.y.title" type="string">Reactive Power (var)</param>
+                    <param name="plot.x.points" type="string">TIME</param>
+                    <param name="plot.x.title" type="string">Time (secs)</param>
+                    <param name="plot.Q_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_ACT.point" type="string">True</param>
+                    <param name="plot.V_TARGET.point" type="string">True</param>
+                    <param name="plot.Q_MIN.point" type="string">True</param>
+                    <param name="plot.Q_MAX.point" type="string">True</param>
+                    <param name="plot.V_ACT.point" type="string">True</param>
+                    <param name="plot.title" type="string">VV_3_66_down_2</param>
+                    <param name="plot.y2.title" type="string">Voltage (V)</param>
+                  </params>
+                  <results />
+                </result>
+                <result filename="PF+VV for Fronius\VV\VV_3\VV_3.xlsx" name="VV_3.xlsx" type="file">
+                  <params />
+                  <results />
+                </result>
+              </results>
+            </result>
+          </results>
+        </result>
+      </results>
+    </result>
+  </results>
+</result>

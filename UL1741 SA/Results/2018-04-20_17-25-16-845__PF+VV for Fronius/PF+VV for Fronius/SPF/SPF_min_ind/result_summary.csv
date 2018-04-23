@@ -1,0 +1,19 @@
+Result, Test Name, Power Level (%), Iteration, PF Actual, PF Target, PF MSA, PF Min Allowed, PF Max Allowed, Dataset File
+Pass, SPF_min_ind, 100, 1, 0.996, 1.0, 0.03, -0.97, 0.97, spf_1000_100_1.csv
+Fail, SPF_min_ind, 100, 1, 0.803, 0.85, 0.03, 0.82, 0.88, spf_850.0_100_1.csv
+Pass, SPF_min_ind, 100, 2, 0.996, 1.0, 0.03, -0.97, 0.97, spf_1000_100_2.csv
+Fail, SPF_min_ind, 100, 2, 0.804, 0.85, 0.03, 0.82, 0.88, spf_850.0_100_2.csv
+Pass, SPF_min_ind, 100, 3, 0.996, 1.0, 0.03, -0.97, 0.97, spf_1000_100_3.csv
+Fail, SPF_min_ind, 100, 3, 0.804, 0.85, 0.03, 0.82, 0.88, spf_850.0_100_3.csv
+Pass, SPF_min_ind, 50.0, 1, 0.988, 1.0, 0.03, -0.97, 0.97, spf_1000_50_1.csv
+Fail, SPF_min_ind, 50.0, 1, 0.779, 0.85, 0.03, 0.82, 0.88, spf_850.0_50_1.csv
+Pass, SPF_min_ind, 50.0, 2, 0.988, 1.0, 0.03, -0.97, 0.97, spf_1000_50_2.csv
+Fail, SPF_min_ind, 50.0, 2, 0.777, 0.85, 0.03, 0.82, 0.88, spf_850.0_50_2.csv
+Pass, SPF_min_ind, 50.0, 3, 0.989, 1.0, 0.03, -0.97, 0.97, spf_1000_50_3.csv
+Fail, SPF_min_ind, 50.0, 3, 0.777, 0.85, 0.03, 0.82, 0.88, spf_850.0_50_3.csv
+Fail, SPF_min_ind, 20.0, 1, 0.954, 1.0, 0.03, -0.97, 0.97, spf_1000_20_1.csv
+Fail, SPF_min_ind, 20.0, 1, 0.696, 0.85, 0.03, 0.82, 0.88, spf_850.0_20_1.csv
+Fail, SPF_min_ind, 20.0, 2, 0.951, 1.0, 0.03, -0.97, 0.97, spf_1000_20_2.csv
+Fail, SPF_min_ind, 20.0, 2, 0.694, 0.85, 0.03, 0.82, 0.88, spf_850.0_20_2.csv
+Fail, SPF_min_ind, 20.0, 3, 0.954, 1.0, 0.03, -0.97, 0.97, spf_1000_20_3.csv
+Fail, SPF_min_ind, 20.0, 3, 0.695, 0.85, 0.03, 0.82, 0.88, spf_850.0_20_3.csv
